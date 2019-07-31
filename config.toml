@@ -1,4 +1,4 @@
-baseurl = "http://localhost:8080/"
+baseurl = "https://gallant-volhard-497d9d.netlify.com/"
 title = "Hugo Test"
 copyright = "Copyright &copy; 2019 - Ilia Frenkel"
 canonifyurls = true
