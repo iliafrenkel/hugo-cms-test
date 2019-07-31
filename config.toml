@@ -1,6 +1,6 @@
 baseurl = "http://localhost:8080/"
-title = "DeleteMe"
-copyright = "Copyright &copy; 2019 - Delete Me"
+title = "Hugo Test"
+copyright = "Copyright &copy; 2019 - Ilia Frenkel"
 canonifyurls = true
 theme = "kiera"
 
@@ -11,7 +11,7 @@ enableEmoji = true
 pygmentsCodeFences = true
 
 [author]
-    name = "Delete Me"
+    name = "Ilia Frenkel"
     github = "iliafrenkel"
     gitlab = ""
     linkedin = "iliafrenkel"
@@ -20,12 +20,12 @@ pygmentsCodeFences = true
     instagram = "iliafrenkel"
 
 [params]
-    tagline = "A Hugo theme for creative and technical writing"
+    tagline = "A Hugo test for creative and technical writing"
 
 [[menu.main]]
-    name = "Home" #Name in the navigation bar
-    weight = 10 #The larger the weight, the more on the right this item will be
-    url = "/" #URL address
+    name = "Home"
+    weight = 10
+    url = "/"
 [[menu.main]]
     name = "Posts"
     weight = 20
